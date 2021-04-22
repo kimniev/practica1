@@ -1,5 +1,10 @@
 linea 1
 linea 2
 linea 3
+<<<<<<< HEAD
 nueva linea 3
 nueva linea 4
+=======
+nueva linea
+nueva linea 2
+>>>>>>> mirama
